@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deltax/static/css/main.21823542.css",
-    "main.js": "/deltax/static/js/main.c9ae2ba5.js",
+    "main.js": "/deltax/static/js/main.2770aabc.js",
     "static/js/787.dd5ac9da.chunk.js": "/deltax/static/js/787.dd5ac9da.chunk.js",
     "static/media/404.png": "/deltax/static/media/404.224799634ea54c5368a0.png",
     "static/media/slider21.jpg": "/deltax/static/media/slider21.4f0bc7b241aa233bf22c.jpg",
@@ -39,11 +39,11 @@
     "static/media/apple-pay.png": "/deltax/static/media/apple-pay.c05c5dbb2291b539538d.png",
     "index.html": "/deltax/index.html",
     "main.21823542.css.map": "/deltax/static/css/main.21823542.css.map",
-    "main.c9ae2ba5.js.map": "/deltax/static/js/main.c9ae2ba5.js.map",
+    "main.2770aabc.js.map": "/deltax/static/js/main.2770aabc.js.map",
     "787.dd5ac9da.chunk.js.map": "/deltax/static/js/787.dd5ac9da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21823542.css",
-    "static/js/main.c9ae2ba5.js"
+    "static/js/main.2770aabc.js"
   ]
 }
