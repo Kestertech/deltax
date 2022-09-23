@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deltax/static/css/main.21823542.css",
-    "main.js": "/deltax/static/js/main.2770aabc.js",
+    "main.js": "/deltax/static/js/main.586e3ece.js",
     "static/js/787.dd5ac9da.chunk.js": "/deltax/static/js/787.dd5ac9da.chunk.js",
     "static/media/404.png": "/deltax/static/media/404.224799634ea54c5368a0.png",
     "static/media/slider21.jpg": "/deltax/static/media/slider21.4f0bc7b241aa233bf22c.jpg",
@@ -9,12 +9,12 @@
     "static/media/slider2.jpg": "/deltax/static/media/slider2.f942e4bf5ab51a2bba2b.jpg",
     "static/media/slider23.jpg": "/deltax/static/media/slider23.7c54a328f406afe59862.jpg",
     "static/media/slider22.jpg": "/deltax/static/media/slider22.b275038bcf3443d6671c.jpg",
+    "static/media/TaxDir.jpg": "/deltax/static/media/TaxDir.22463a86a8949d47e8d5.jpg",
     "static/media/slider3.jpg": "/deltax/static/media/slider3.c454673633b3f26a4e79.jpg",
     "static/media/hp5.jpg": "/deltax/static/media/hp5.4d22dd51c8972721e13f.jpg",
     "static/media/slider111.jpg": "/deltax/static/media/slider111.2db8dbe81b7b573d91bf.jpg",
     "static/media/slider1.jpg": "/deltax/static/media/slider1.114bc46ab0960891cbfa.jpg",
     "static/media/slider222.jpg": "/deltax/static/media/slider222.114bc46ab0960891cbfa.jpg",
-    "static/media/TaxDir.jpg": "/deltax/static/media/TaxDir.37db6ea8b3fcfa5252f4.jpg",
     "static/media/okowa.jpg": "/deltax/static/media/okowa.95db271ea2c4cd7509d1.jpg",
     "static/media/hp3.jpg": "/deltax/static/media/hp3.c5c3ff0ba39506e3f140.jpg",
     "static/media/about.png": "/deltax/static/media/about.b495714b7acd46c0334d.png",
@@ -39,11 +39,11 @@
     "static/media/apple-pay.png": "/deltax/static/media/apple-pay.c05c5dbb2291b539538d.png",
     "index.html": "/deltax/index.html",
     "main.21823542.css.map": "/deltax/static/css/main.21823542.css.map",
-    "main.2770aabc.js.map": "/deltax/static/js/main.2770aabc.js.map",
+    "main.586e3ece.js.map": "/deltax/static/js/main.586e3ece.js.map",
     "787.dd5ac9da.chunk.js.map": "/deltax/static/js/787.dd5ac9da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21823542.css",
-    "static/js/main.2770aabc.js"
+    "static/js/main.586e3ece.js"
   ]
 }
