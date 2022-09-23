@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deltax/static/css/main.21823542.css",
-    "main.js": "/deltax/static/js/main.586e3ece.js",
+    "main.js": "/deltax/static/js/main.89190584.js",
     "static/js/787.dd5ac9da.chunk.js": "/deltax/static/js/787.dd5ac9da.chunk.js",
     "static/media/404.png": "/deltax/static/media/404.224799634ea54c5368a0.png",
     "static/media/slider21.jpg": "/deltax/static/media/slider21.4f0bc7b241aa233bf22c.jpg",
@@ -27,10 +27,10 @@
     "static/media/privacy.png": "/deltax/static/media/privacy.310175b8348800a421bc.png",
     "static/media/phone-call.png": "/deltax/static/media/phone-call.555baddb7dc7222fcd8d.png",
     "static/media/twitter.png": "/deltax/static/media/twitter.802534bf2678c3afb41d.png",
+    "static/media/bg.jpg": "/deltax/static/media/bg.cfea812f5b0114e47e6d.jpg",
     "static/media/termc.png": "/deltax/static/media/termc.5d0db50b742766e7ff50.png",
     "static/media/facebook.png": "/deltax/static/media/facebook.795fce8e464693d7346d.png",
     "static/media/placeholder.png": "/deltax/static/media/placeholder.64cdcb0ef97818161310.png",
-    "static/media/bg.jpg": "/deltax/static/media/bg.498fcb4794598da084d1.jpg",
     "static/media/youtube.png": "/deltax/static/media/youtube.53e70a78a824adc8e296.png",
     "static/media/hp1.jpg": "/deltax/static/media/hp1.0982ff46a72a18d69bc7.jpg",
     "static/media/pay.png": "/deltax/static/media/pay.b236b60e743bc85d9208.png",
@@ -39,11 +39,11 @@
     "static/media/apple-pay.png": "/deltax/static/media/apple-pay.c05c5dbb2291b539538d.png",
     "index.html": "/deltax/index.html",
     "main.21823542.css.map": "/deltax/static/css/main.21823542.css.map",
-    "main.586e3ece.js.map": "/deltax/static/js/main.586e3ece.js.map",
+    "main.89190584.js.map": "/deltax/static/js/main.89190584.js.map",
     "787.dd5ac9da.chunk.js.map": "/deltax/static/js/787.dd5ac9da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21823542.css",
-    "static/js/main.586e3ece.js"
+    "static/js/main.89190584.js"
   ]
 }
